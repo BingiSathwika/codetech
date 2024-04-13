@@ -1,8 +1,11 @@
 # codetech
 # TASK 1
 TITLE: CodTech IT Solutions Internship - Task Documentation: “CHATBOT WITH RULE-BASED RESPONSES” Using PYTHON.
+
 INTERN INFORMATION: 
+
 Name: Bingi Sathwika
+
 ID: C0D5077
 
 INTRODUCTION
@@ -54,8 +57,11 @@ OUTPUT
  
 # TASK 2
 TITLE: CodTech IT Solutions Internship - Task Documentation: “TIC-TAC-TOE AI” Using PYTHON.
+
 INTERN INFORMATION: 
+
 Name: Bingi Sathwika
+
 ID: C0D5077
 
 INTRODUCTION
