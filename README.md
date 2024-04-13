@@ -50,7 +50,7 @@ Future Prospects: Opportunities for future enhancements and feature enrichments 
 
 OUTPUT
 
-`![image](https://github.com/BingiSathwika/codetech/assets/142502651/1b905060-279f-44cd-9d0e-7f5adb9e8b9e)`
+![image](https://github.com/BingiSathwika/codetech/assets/142502651/1b905060-279f-44cd-9d0e-7f5adb9e8b9e)
  
 # TASK 2
 TITLE: CodTech IT Solutions Internship - Task Documentation: “TIC-TAC-TOE AI” Using PYTHON.
@@ -105,9 +105,9 @@ These may include implementing different difficulty levels for the AI, adding gr
 
 OUTPUT	
 
-`![image](https://github.com/BingiSathwika/codetech/assets/142502651/6aeadf67-3484-4a4f-be19-50a354a22af3)
+![image](https://github.com/BingiSathwika/codetech/assets/142502651/6aeadf67-3484-4a4f-be19-50a354a22af3)
 ![image](https://github.com/BingiSathwika/codetech/assets/142502651/faa76f85-9635-41dc-98e7-023db9f80146)
 ![image](https://github.com/BingiSathwika/codetech/assets/142502651/c9846b06-754a-44b1-8c17-eaf15ea3c7a6)
-![image](https://github.com/BingiSathwika/codetech/assets/142502651/6cc0d6e3-1ab7-428b-b358-1468cc7f3622)`
+![image](https://github.com/BingiSathwika/codetech/assets/142502651/6cc0d6e3-1ab7-428b-b358-1468cc7f3622)
 
  
